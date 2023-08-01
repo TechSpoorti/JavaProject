@@ -1,0 +1,21 @@
+SDLC(Software development life cycle)
+ which is the process to develop a s/w appliction.
+It contains 7 phases
+ 1.Data gathering-collecting all the reuired resources to develop the s/w from customer.
+   it contains CRS(customer reuirement specification) BRD(bussiness required documentation)
+ 2.Analysis- it is the part to analyse how many developer are required,how much time is required
+   to finish the s/w appln, wt is the budget.
+   int this FRD(functional requirement documentation) & SRS(s/w requirement specification).
+ 3.Design-it is blue print of the s/w appliction,or prototype.
+   tells abt the the end product looks lke.
+   it contains UXD(user experince design).
+    DBA(database adminstrator)
+    SA(solution analyst).
+ 4.Development-prgms are written to develop/create the s/w appln.
+   --S/w developer.
+ 5.Testing-throught prgm will be testing by quality assurance.
+   --s/w tester or QAE(uality assurance engineer).
+ 6.Deployment-taking the appln prgm file thn put to the servers.
+   these persons are called devops.
+ 7.Maintance-it is the lst phase of the sdlc in future any error or prblm r occur on the time
+    it is useful and it will help to update the s/w.

@@ -1,0 +1,3 @@
+Methods-it is set of instrutions tht do some specific task.
+Method overloading-same class,same method name but different
+ parameters tht do some task.(it is a feature)

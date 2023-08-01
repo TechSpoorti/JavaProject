@@ -1,0 +1,3 @@
+clt+2,L for Scanner
+1.write a java prgm to create a student objt with the fields as name,age and roll num and update the details
+note:before updating the details read the values using Scanner statements 

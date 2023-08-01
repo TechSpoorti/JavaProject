@@ -1,0 +1,5 @@
+1. tables
+2.reverse
+3.palidrome  sum*10+r; input=1223221 op=1223221
+4.sum of the digit=sum+r input=123 op=6
+5.amstrng r,cube,sum,divede if(temp==sum){amstrng} inp=153 op=153

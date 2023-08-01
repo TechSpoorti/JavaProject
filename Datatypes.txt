@@ -1,0 +1,17 @@
+datatypes -which type of data will store in the varible
+2 types 1.primative 
+        2.non primative
+Primative -(byte,short,int,long,float,double,char,boolean)
+NonPrimative-(Array,String....)
+1. byte-1B(8 bites)
+   Range = -2(n-1) to 2(n-1)-1.
+   Ex:byte age=22;
+2. short-2B(16 bites)
+   Range=-32768 to 32767
+   Ex:short distance=30000;
+3. int =4B(32 bites)
+   Range=-214783648 to 2147483647
+   Ex: int views=2147483648;
+4.long = 8B(64 bites)
+  Range=-2(63) to 2(63)-1;
+  
